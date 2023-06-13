@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jegy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <elem>
+        <nev>Felnőtt</nev>
+        <ar>1500</ar>
+        <megjegyzes></megjegyzes>
+    </elem>
+    <elem>
+        <nev>Diák/Nyugdíjas</nev>
+        <ar>1100</ar>
+        <megjegyzes>diákigazolvánnyal vagy személyivel vehető igénybe (nyugdíjas 65 év felett)</megjegyzes>
+    </elem>
+    <elem>
+        <nev>Csoportos</nev>
+        <ar>1200</ar>
+        <megjegyzes>min. 10 fő</megjegyzes>
+    </elem>
+    <elem>
+        <nev>Csoportos diákjegy</nev>
+        <ar>800</ar>
+        <megjegyzes>min. 10 diák</megjegyzes>
+    </elem>
+    <elem>
+        <nev>Gyerekjegy</nev>
+        <ar>750</ar>
+        <megjegyzes>4-6 éves kor között</megjegyzes>
+    </elem>
+</jegy>
